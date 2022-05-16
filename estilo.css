@@ -1,0 +1,21 @@
+div{border: 1px solid;}
+
+#topo{height: 200px; 
+	 background: silver;
+	 width: 1000px;
+	 }
+	 
+#menu{height:20px; 
+	 background: orange;
+	 width: 1000px;
+	text-align: center;
+	font-size: 15;
+	font-family: arial; 
+	}
+
+a:hover{background: red;
+	font-size: 20;}
+	
+#conteudo{height: 500px; background: silver; width: 1000px;}
+
+#rodape{;}
